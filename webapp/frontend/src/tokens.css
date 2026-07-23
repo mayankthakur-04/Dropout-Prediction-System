@@ -1,0 +1,123 @@
+/* ==========================================================================
+   DESIGN TOKENS
+   Institutional, calm, trustworthy palette for an academic counseling tool.
+   Deliberately avoids generic SaaS blue/purple gradients -- this should
+   feel like software a college registrar's office would actually run.
+   ========================================================================== */
+
+:root {
+  /* --- Core palette --- */
+  --color-navy-950: #141C26;
+  --color-navy-900: #1E2A38;
+  --color-navy-800: #28384A;
+  --color-navy-700: #36495D;
+  --color-slate-500: #64748B;
+  --color-slate-300: #A8B3C2;
+  --color-slate-100: #E7EAEF;
+  --color-bg: #F6F7F9;
+  --color-surface: #FFFFFF;
+
+  /* --- Accent --- */
+  --color-teal-700: #1F6B6B;
+  --color-teal-600: #2D8C8C;
+  --color-teal-100: #E3F1F1;
+
+  /* --- Risk tier colors (desaturated, not stoplight-garish) --- */
+  --color-risk-high: #B0473F;
+  --color-risk-high-bg: #FBEAE8;
+  --color-risk-medium: #C7872E;
+  --color-risk-medium-bg: #FBF1E2;
+  --color-risk-low: #4C8C57;
+  --color-risk-low-bg: #E9F3EA;
+
+  /* --- Typography --- */
+  --font-display: 'Source Serif 4', Georgia, serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* --- Spacing scale --- */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+
+  /* --- Radii & shadows --- */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --shadow-sm: 0 1px 2px rgba(20, 28, 38, 0.06);
+  --shadow-md: 0 4px 12px rgba(20, 28, 38, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--color-bg);
+  color: var(--color-navy-900);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  margin: 0;
+  color: var(--color-navy-950);
+}
+
+p {
+  margin: 0;
+}
+
+button {
+  font-family: var(--font-body);
+}
+
+a {
+  color: var(--color-teal-700);
+  text-decoration: none;
+}
+
+/* Visible keyboard focus -- accessibility floor */
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--color-teal-600);
+  outline-offset: 2px;
+}
+
+/* Respect reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-slate-300);
+  border-radius: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
