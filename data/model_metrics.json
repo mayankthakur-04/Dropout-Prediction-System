@@ -1,0 +1,46 @@
+{
+  "logistic_regression": {
+    "accuracy": 0.645,
+    "precision": 0.3,
+    "recall": 0.6153846153846154,
+    "f1": 0.40336134453781514,
+    "auc": 0.6673833412963848
+  },
+  "random_forest_default_threshold": {
+    "accuracy": 0.7725,
+    "precision": 0.4155844155844156,
+    "recall": 0.41025641025641024,
+    "f1": 0.4129032258064516,
+    "auc": 0.6940197483675745
+  },
+  "random_forest_tuned_threshold": {
+    "accuracy": 0.6625,
+    "precision": 0.3161290322580645,
+    "recall": 0.6282051282051282,
+    "f1": 0.4206008583690987,
+    "auc": 0.6940197483675745
+  },
+  "tuned_threshold_value": 0.42,
+  "dataset_size": 2000,
+  "dropout_rate_pct": 19.6,
+  "features_used": [
+    "attendance_pct",
+    "internal_marks_avg",
+    "prev_semester_pct",
+    "cgpa",
+    "backlogs",
+    "assignment_submission_rate",
+    "lms_login_freq_per_week",
+    "library_visits_per_month",
+    "extracurricular_participation",
+    "family_income_monthly",
+    "first_generation_learner",
+    "distance_from_college_km",
+    "scholarship_status",
+    "fee_due",
+    "fee_delay_days",
+    "gender",
+    "category",
+    "hostel_or_dayscholar"
+  ]
+}
