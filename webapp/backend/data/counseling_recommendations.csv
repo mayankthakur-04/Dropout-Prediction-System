@@ -1,0 +1,1173 @@
+student_id,risk_score,issue,recommended_action
+STU2521,80.3,Fee due for 51+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2521,80.3,"Weak academic performance (marks: 15.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2521,80.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1098,77.3,Fee due for 45+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1098,77.3,"Weak academic performance (marks: 32.0, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1098,77.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1186,77.1,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1186,77.1,"Weak academic performance (marks: 34.4, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1186,77.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1984,77.0,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1984,77.0,"Weak academic performance (marks: 30.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2282,75.7,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2282,75.7,"Weak academic performance (marks: 21.3, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1280,75.1,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1280,75.1,"Weak academic performance (marks: 28.9, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1280,75.1,Low assignment submission (40%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1550,74.3,Fee due for 51+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1550,74.3,"Weak academic performance (marks: 31.5, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1550,74.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2989,74.3,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2989,74.3,"Weak academic performance (marks: 46.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1756,74.1,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1756,74.1,"Weak academic performance (marks: 63.5, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1756,74.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2088,73.8,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2088,73.8,"Weak academic performance (marks: 24.9, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1430,73.5,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1430,73.5,"Weak academic performance (marks: 70.2, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2459,73.3,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2459,73.3,"Weak academic performance (marks: 38.9, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2636,73.2,Fee due for 56+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2636,73.2,Low assignment submission (47%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2636,73.2,First-generation learner commuting long distance (45 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2636,73.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2620,72.9,Fee due for 37+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2620,72.9,"Weak academic performance (marks: 35.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2529,72.9,"Weak academic performance (marks: 41.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2529,72.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1254,72.4,Low attendance (55.2%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1254,72.4,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1254,72.4,"Weak academic performance (marks: 37.5, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1982,71.9,"Weak academic performance (marks: 73.2, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1982,71.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1301,71.7,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1301,71.7,"Weak academic performance (marks: 42.0, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2289,71.3,Low attendance (45.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2289,71.3,Fee due for 64+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2981,71.3,Low attendance (57.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2981,71.3,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2981,71.3,"Weak academic performance (marks: 89.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2666,71.3,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2666,71.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2815,71.2,"Weak academic performance (marks: 27.7, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1233,70.9,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2397,70.9,"Weak academic performance (marks: 86.8, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2366,70.8,Fee due for 53+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2366,70.8,"Weak academic performance (marks: 50.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1389,70.7,Fee due for 63+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1389,70.7,"Weak academic performance (marks: 78.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1960,70.6,Fee due for 43+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1960,70.6,Low assignment submission (35%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2853,70.6,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2654,70.6,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2654,70.6,"Weak academic performance (marks: 62.7, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2622,70.3,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2622,70.3,"Weak academic performance (marks: 24.4, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2622,70.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2085,70.2,Fee due for 53+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2110,70.2,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2110,70.2,"Weak academic performance (marks: 39.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2736,70.1,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2736,70.1,"Weak academic performance (marks: 51.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1974,70.0,Fee due for 57+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1547,69.7,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1547,69.7,"Weak academic performance (marks: 49.8, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2980,69.7,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1208,69.7,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1832,69.4,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2288,69.4,Fee due for 52+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2288,69.4,"Weak academic performance (marks: 48.7, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1504,69.3,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1504,69.3,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1475,69.2,Fee due for 51+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1475,69.2,"Weak academic performance (marks: 73.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1475,69.2,First-generation learner commuting long distance (51 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1475,69.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1870,69.2,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1870,69.2,"Weak academic performance (marks: 48.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1158,69.2,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1872,69.2,Low attendance (57.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1872,69.2,"Weak academic performance (marks: 22.4, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1872,69.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1526,69.2,Low attendance (53.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1526,69.2,"Weak academic performance (marks: 67.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1526,69.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2594,69.1,Low attendance (42.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2594,69.1,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2594,69.1,"Weak academic performance (marks: 82.7, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2594,69.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1072,69.0,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1072,69.0,"Weak academic performance (marks: 61.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1283,69.0,Low attendance (59.4%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1283,69.0,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1283,69.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1710,68.8,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1710,68.8,"Weak academic performance (marks: 45.3, backlogs: 5)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1710,68.8,Low assignment submission (41%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2953,68.8,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1471,68.8,Low attendance (43.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1471,68.8,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1471,68.8,"Weak academic performance (marks: 100.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1661,68.7,Fee due for 61+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1661,68.7,Low assignment submission (30%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2588,68.7,Fee due for 43+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2588,68.7,"Weak academic performance (marks: 82.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1378,68.6,Fee due for 53+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1378,68.6,Low assignment submission (43%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1378,68.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1481,68.5,"Weak academic performance (marks: 90.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1481,68.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1382,68.4,Low attendance (46.1%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1382,68.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1086,68.4,Fee due for 45+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1331,68.3,First-generation learner commuting long distance (52 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1331,68.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2669,68.2,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1170,68.1,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1601,68.0,Fee due for 51+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2373,67.9,Low attendance (53.8%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2373,67.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1182,67.8,Fee due for 64+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1182,67.8,"Weak academic performance (marks: 56.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1182,67.8,Low assignment submission (48%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2854,67.7,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2854,67.7,"Weak academic performance (marks: 53.4, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2854,67.7,Low assignment submission (41%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2854,67.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2291,67.7,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2291,67.7,"Weak academic performance (marks: 15.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2090,67.6,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2090,67.6,"Weak academic performance (marks: 27.3, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2266,67.5,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2266,67.5,"Weak academic performance (marks: 44.2, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2266,67.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1102,66.9,Fee due for 59+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1102,66.9,"Weak academic performance (marks: 44.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1102,66.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1346,66.9,Low attendance (56.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1346,66.9,"Weak academic performance (marks: 51.4, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2663,66.9,"Weak academic performance (marks: 65.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1014,66.9,Low attendance (52.1%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1914,66.8,Fee due for 56+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1914,66.8,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1914,66.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2523,66.8,"Weak academic performance (marks: 89.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2523,66.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2160,66.6,Low attendance (40.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2160,66.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1292,66.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1051,66.5,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1051,66.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1213,66.5,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1213,66.5,Low assignment submission (48%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1213,66.5,First-generation learner commuting long distance (52 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1049,66.5,Low attendance (51.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1049,66.5,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1492,66.3,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1271,66.2,Low attendance (56.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1271,66.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1745,66.0,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1745,66.0,"Weak academic performance (marks: 54.7, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1745,66.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2513,65.9,Low attendance (50.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2513,65.9,"Weak academic performance (marks: 28.5, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2513,65.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2286,65.8,Low attendance (50.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2286,65.8,Fee due for 35+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1246,65.8,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1246,65.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1496,65.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2396,65.7,Low attendance (57.8%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2396,65.7,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1348,65.6,Fee due for 54+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1348,65.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1898,65.5,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1898,65.5,"Weak academic performance (marks: 54.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1758,65.5,"Weak academic performance (marks: 39.6, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1842,65.4,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1380,65.2,"Weak academic performance (marks: 42.7, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1380,65.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2255,65.2,Low attendance (59.9%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1635,65.1,Low attendance (53.2%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1635,65.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1527,65.0,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2660,65.0,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2660,65.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1578,64.9,Low attendance (55.8%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1126,64.9,"Weak academic performance (marks: 38.7, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1126,64.9,First-generation learner commuting long distance (34 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1126,64.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1473,64.9,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1473,64.9,"Weak academic performance (marks: 35.1, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1671,64.8,Low attendance (46.9%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1671,64.8,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1671,64.8,"Weak academic performance (marks: 70.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2348,64.8,Low attendance (57.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2348,64.8,Fee due for 51+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2348,64.8,"Weak academic performance (marks: 72.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2371,64.8,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2371,64.8,"Weak academic performance (marks: 38.5, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1757,64.7,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1757,64.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2643,64.7,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2643,64.7,"Weak academic performance (marks: 59.4, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2795,64.7,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1146,64.6,Low attendance (59.4%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1146,64.6,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1146,64.6,"Weak academic performance (marks: 31.2, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1146,64.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1229,64.6,Fee due for 45+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1229,64.6,"Weak academic performance (marks: 78.1, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1229,64.6,Low assignment submission (46%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2694,64.6,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2694,64.6,Low assignment submission (44%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2694,64.6,First-generation learner commuting long distance (38 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1429,64.5,Low attendance (51.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1429,64.5,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1933,64.5,Low attendance (45.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1933,64.5,Fee due for 58+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2462,64.4,Fee due for 60+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2248,64.3,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2248,64.3,"Weak academic performance (marks: 64.1, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2248,64.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1147,64.3,Low attendance (58.2%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1147,64.3,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1628,64.2,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1628,64.2,"Weak academic performance (marks: 52.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1628,64.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2922,64.2,"Weak academic performance (marks: 53.8, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1400,64.2,Low attendance (54.1%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1400,64.2,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1400,64.2,"Weak academic performance (marks: 47.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2486,64.1,Low attendance (56.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2486,64.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2259,64.0,Fee due for 45+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2630,64.0,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2630,64.0,"Weak academic performance (marks: 70.7, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1017,63.8,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1017,63.8,"Weak academic performance (marks: 23.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1017,63.8,Low assignment submission (44%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2825,63.8,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2825,63.8,"Weak academic performance (marks: 81.1, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2825,63.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1781,63.8,Low attendance (58.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1781,63.8,"Weak academic performance (marks: 48.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2864,63.7,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2864,63.7,"Weak academic performance (marks: 53.3, backlogs: 5)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1789,63.6,Low attendance (53.1%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1789,63.6,"Weak academic performance (marks: 63.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1864,63.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2391,63.4,"Weak academic performance (marks: 45.5, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1522,63.4,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2841,63.3,Low attendance (49.8%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2841,63.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1052,63.1,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1052,63.1,"Weak academic performance (marks: 48.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1052,63.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1290,63.0,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1266,62.9,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1266,62.9,"Weak academic performance (marks: 28.0, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1266,62.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2350,62.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2605,62.8,"Weak academic performance (marks: 45.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2605,62.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1415,62.6,First-generation learner commuting long distance (47 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1415,62.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1165,62.5,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1165,62.5,Low assignment submission (44%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1165,62.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1130,62.5,Low attendance (54.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1130,62.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1077,62.5,Fee due for 43+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1077,62.5,"Weak academic performance (marks: 81.7, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2914,62.5,Low attendance (51.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2914,62.5,"Weak academic performance (marks: 33.0, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2914,62.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1775,62.5,Low attendance (54.4%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1775,62.5,First-generation learner commuting long distance (55 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2063,62.4,Low attendance (51.9%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1648,62.4,"Weak academic performance (marks: 60.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1472,62.3,Low attendance (55.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1472,62.3,Fee due for 51+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1004,62.1,"Weak academic performance (marks: 25.9, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1411,62.1,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2680,62.0,"Weak academic performance (marks: 39.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2680,62.0,Low assignment submission (40%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2680,62.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1293,61.9,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1293,61.9,Low assignment submission (47%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2790,61.6,Low attendance (49.9%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2790,61.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2389,61.6,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2389,61.6,"Weak academic performance (marks: 62.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2571,61.5,Low attendance (59.2%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2571,61.5,"Weak academic performance (marks: 83.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1755,61.4,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2850,61.3,"Weak academic performance (marks: 50.6, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2850,61.3,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1426,61.2,"Weak academic performance (marks: 70.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1426,61.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2148,61.1,Fee due for 43+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2148,61.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2969,61.0,Fee due for 53+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2969,61.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1840,60.9,Fee due for 54+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1840,60.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2031,60.8,Low attendance (53.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2031,60.8,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2031,60.8,"Weak academic performance (marks: 48.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2031,60.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2722,60.7,"Weak academic performance (marks: 30.5, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2682,60.7,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2665,60.5,"Weak academic performance (marks: 37.4, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2665,60.5,Low assignment submission (38%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2258,60.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1494,60.5,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1494,60.5,"Weak academic performance (marks: 37.4, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1494,60.5,Low assignment submission (30%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1494,60.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2716,60.4,Fee due for 59+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2716,60.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2886,60.2,"Weak academic performance (marks: 20.5, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2797,60.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2137,60.2,Low attendance (59.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2137,60.2,"Weak academic performance (marks: 41.6, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2424,60.1,"Weak academic performance (marks: 28.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1006,60.0,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1006,60.0,"Weak academic performance (marks: 60.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2058,59.9,Fee due for 36+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2058,59.9,"Weak academic performance (marks: 38.4, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2058,59.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2510,59.8,"Weak academic performance (marks: 82.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2192,59.8,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2192,59.8,"Weak academic performance (marks: 100.0, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1139,59.7,Low attendance (59.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1139,59.7,"Weak academic performance (marks: 33.6, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2329,59.7,"Weak academic performance (marks: 75.0, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2329,59.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1189,59.6,Low attendance (55.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1189,59.6,"Weak academic performance (marks: 70.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1189,59.6,First-generation learner commuting long distance (37 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1447,59.6,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1447,59.6,"Weak academic performance (marks: 55.8, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1401,59.6,"Weak academic performance (marks: 63.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1502,59.5,Low attendance (57.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1205,59.4,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2887,59.3,Fee due for 43+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2662,59.2,Low attendance (46.2%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2662,59.2,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2662,59.2,First-generation learner commuting long distance (40 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2595,59.2,Fee due for 52+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2595,59.2,"Weak academic performance (marks: 80.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2595,59.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2936,59.2,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2936,59.2,"Weak academic performance (marks: 82.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2936,59.2,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2697,59.1,Fee due for 51+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2697,59.1,First-generation learner commuting long distance (33 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2697,59.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2220,59.1,Fee due for 51+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2220,59.1,First-generation learner commuting long distance (65 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2551,59.1,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2551,59.1,"Weak academic performance (marks: 31.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1092,59.1,"Weak academic performance (marks: 71.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2978,59.0,"Weak academic performance (marks: 70.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1885,58.9,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1132,58.9,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2211,58.8,"Weak academic performance (marks: 38.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1831,58.7,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1831,58.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1265,58.7,Low attendance (59.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1419,58.6,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1419,58.6,"Weak academic performance (marks: 36.1, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2325,58.6,Low attendance (48.4%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2325,58.6,"Weak academic performance (marks: 68.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2325,58.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1223,58.6,Low attendance (53.8%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1223,58.6,"Weak academic performance (marks: 56.7, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1807,58.5,"Weak academic performance (marks: 45.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2284,58.5,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2284,58.5,"Weak academic performance (marks: 31.9, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2916,58.4,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2916,58.4,First-generation learner commuting long distance (47 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1896,58.4,"Weak academic performance (marks: 22.5, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2844,58.1,Fee due for 37+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2979,58.1,"Weak academic performance (marks: 41.1, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2979,58.1,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2979,58.1,First-generation learner commuting long distance (32 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2979,58.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2165,57.9,"Weak academic performance (marks: 28.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2528,57.9,"Weak academic performance (marks: 27.0, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2528,57.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2737,57.9,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2882,57.8,Low attendance (59.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2882,57.8,Fee due for 54+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2882,57.8,"Weak academic performance (marks: 26.8, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2882,57.8,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1970,57.7,"Weak academic performance (marks: 25.6, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1970,57.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2320,57.7,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2320,57.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2810,57.7,"Weak academic performance (marks: 42.1, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2414,57.7,Fee due for 34+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2414,57.7,"Weak academic performance (marks: 50.1, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2414,57.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2120,57.6,Fee due for 33+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2120,57.6,"Weak academic performance (marks: 51.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1654,57.6,"Weak academic performance (marks: 48.2, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2591,57.5,Low attendance (34.2%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2591,57.5,"Weak academic performance (marks: 70.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2591,57.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2089,57.5,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2585,57.4,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2585,57.4,"Weak academic performance (marks: 36.7, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1882,57.3,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1022,57.3,"Weak academic performance (marks: 84.5, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1033,57.3,"Weak academic performance (marks: 69.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2367,57.2,"Weak academic performance (marks: 63.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2367,57.2,Low assignment submission (50%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1214,57.1,Fee due for 45+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1214,57.1,"Weak academic performance (marks: 51.5, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1247,57.1,"Weak academic performance (marks: 36.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1436,57.1,Fee due for 34+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1436,57.1,"Weak academic performance (marks: 57.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1436,57.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1245,57.0,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1112,56.9,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1112,56.9,"Weak academic performance (marks: 60.7, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1112,56.9,First-generation learner commuting long distance (32 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2105,56.9,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2105,56.9,"Weak academic performance (marks: 66.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2105,56.9,Low assignment submission (50%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1592,56.9,"Weak academic performance (marks: 59.2, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2604,56.9,"Weak academic performance (marks: 74.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2604,56.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1416,56.7,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1416,56.7,"Weak academic performance (marks: 69.9, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1416,56.7,Low assignment submission (47%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1639,56.7,Low attendance (58.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2316,56.7,"Weak academic performance (marks: 59.0, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2082,56.5,Fee due for 65+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2082,56.5,"Weak academic performance (marks: 24.6, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2082,56.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2729,56.5,"Weak academic performance (marks: 18.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2985,56.2,"Weak academic performance (marks: 22.5, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2985,56.2,Low assignment submission (46%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1676,56.2,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1222,56.1,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1193,56.1,Low attendance (59.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1193,56.1,"Weak academic performance (marks: 35.5, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2964,56.0,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1089,56.0,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1089,56.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1534,56.0,"Weak academic performance (marks: 52.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1731,55.9,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2807,55.9,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2807,55.9,"Weak academic performance (marks: 24.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2817,55.9,"Weak academic performance (marks: 57.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1281,55.6,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2131,55.6,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2131,55.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2207,55.6,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2799,55.6,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2799,55.6,First-generation learner commuting long distance (43 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2372,55.5,Low attendance (57.4%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1868,55.4,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1868,55.4,"Weak academic performance (marks: 69.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2544,55.4,"Weak academic performance (marks: 84.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2016,55.4,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2016,55.4,"Weak academic performance (marks: 32.7, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2351,55.4,Low attendance (51.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2363,55.4,"Weak academic performance (marks: 35.6, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2401,55.3,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2401,55.3,"Weak academic performance (marks: 70.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1349,55.2,"Weak academic performance (marks: 52.9, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2379,55.2,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2379,55.2,"Weak academic performance (marks: 46.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2261,55.2,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1711,55.0,"Weak academic performance (marks: 87.6, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1711,55.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2399,55.0,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2399,55.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2684,55.0,"Weak academic performance (marks: 70.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2684,55.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1267,54.9,Low attendance (56.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1267,54.9,Fee due for 37+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2295,54.8,"Weak academic performance (marks: 40.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2295,54.8,Low assignment submission (32%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1565,54.7,"Weak academic performance (marks: 52.7, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1565,54.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2610,54.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1506,54.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2836,54.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2570,54.5,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2570,54.5,"Weak academic performance (marks: 54.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2344,54.4,Fee due for 43+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2344,54.4,Low assignment submission (50%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1777,54.3,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1446,54.2,"Weak academic performance (marks: 65.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1446,54.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2009,54.1,"Weak academic performance (marks: 51.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2009,54.1,First-generation learner commuting long distance (65 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2107,54.1,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2107,54.1,"Weak academic performance (marks: 70.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1358,54.1,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1358,54.1,"Weak academic performance (marks: 28.0, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2138,54.0,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2138,54.0,"Weak academic performance (marks: 68.5, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2138,54.0,Low assignment submission (40%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2138,54.0,First-generation learner commuting long distance (48 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2138,54.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1675,54.0,"Weak academic performance (marks: 24.7, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2092,53.9,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2249,53.9,Low attendance (54.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2249,53.9,"Weak academic performance (marks: 26.6, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2280,53.8,"Weak academic performance (marks: 44.5, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2280,53.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1716,53.8,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1716,53.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1025,53.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1097,53.7,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1097,53.7,First-generation learner commuting long distance (35 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1797,53.6,Fee due for 45+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1797,53.6,"Weak academic performance (marks: 27.9, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1684,53.6,Low attendance (59.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1684,53.6,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1684,53.6,"Weak academic performance (marks: 66.0, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1099,53.5,"Weak academic performance (marks: 74.7, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1099,53.5,Low assignment submission (36%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1099,53.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1704,53.5,Low attendance (54.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1484,53.5,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1484,53.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1952,53.5,Low attendance (59.2%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2791,53.5,"Weak academic performance (marks: 52.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2791,53.5,Low assignment submission (36%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1083,53.5,Fee due for 45+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1083,53.5,"Weak academic performance (marks: 18.7, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1083,53.5,Low assignment submission (48%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1886,53.4,"Weak academic performance (marks: 50.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1969,53.4,Low attendance (56.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1969,53.4,Fee due for 43+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1969,53.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2653,53.4,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2653,53.4,"Weak academic performance (marks: 45.1, backlogs: 5)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1410,53.3,Fee due for 54+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2146,53.3,"Weak academic performance (marks: 47.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2175,53.3,Fee due for 52+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1227,53.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1307,53.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1325,53.2,Low attendance (59.8%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1325,53.2,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2229,53.1,Low assignment submission (44%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2229,53.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1529,53.0,"Weak academic performance (marks: 39.6, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1529,53.0,Low assignment submission (50%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1529,53.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2768,53.0,"Weak academic performance (marks: 72.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1294,53.0,"Weak academic performance (marks: 45.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2425,52.9,Low attendance (48.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2425,52.9,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2425,52.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1058,52.8,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2651,52.8,Fee due for 52+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2651,52.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1827,52.8,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1827,52.8,"Weak academic performance (marks: 58.9, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1827,52.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2154,52.7,Fee due for 54+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2154,52.7,"Weak academic performance (marks: 41.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1309,52.7,"Weak academic performance (marks: 76.0, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1309,52.7,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1309,52.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1899,52.6,"Weak academic performance (marks: 65.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1899,52.6,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2573,52.4,Low attendance (57.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2573,52.4,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2573,52.4,"Weak academic performance (marks: 63.5, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2262,52.3,Fee due for 37+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2257,52.3,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2257,52.3,"Weak academic performance (marks: 47.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2562,52.3,Low attendance (41.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2562,52.3,"Weak academic performance (marks: 20.6, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1634,52.3,"Weak academic performance (marks: 90.6, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1536,52.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1935,52.1,"Weak academic performance (marks: 86.5, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1499,52.1,Low attendance (57.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1499,52.1,"Weak academic performance (marks: 66.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1499,52.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1303,52.1,"Weak academic performance (marks: 64.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1303,52.1,First-generation learner commuting long distance (48 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1478,52.0,"Weak academic performance (marks: 35.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1478,52.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2419,52.0,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2419,52.0,"Weak academic performance (marks: 50.4, backlogs: 7)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2268,52.0,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2268,52.0,"Weak academic performance (marks: 64.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2268,52.0,Low assignment submission (33%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1018,52.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1844,52.0,Low assignment submission (28%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1844,52.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1347,51.9,Low attendance (56.9%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1347,51.9,"Weak academic performance (marks: 44.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1347,51.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2185,51.8,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2553,51.8,"Weak academic performance (marks: 100.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2553,51.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2184,51.8,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2184,51.8,"Weak academic performance (marks: 46.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2554,51.7,"Weak academic performance (marks: 26.9, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2554,51.7,Low assignment submission (40%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2621,51.7,Low attendance (56.4%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2621,51.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2473,51.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2649,51.6,Low assignment submission (46%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2318,51.6,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1512,51.6,Low assignment submission (25%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1991,51.5,Low attendance (47.4%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1991,51.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1406,51.5,"Weak academic performance (marks: 36.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1406,51.5,First-generation learner commuting long distance (78 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1406,51.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2300,51.5,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2475,51.4,"Weak academic performance (marks: 36.9, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2475,51.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2205,51.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1752,51.4,"Weak academic performance (marks: 51.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1021,51.4,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1905,51.3,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1573,51.2,First-generation learner commuting long distance (33 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1573,51.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2994,51.2,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2994,51.2,"Weak academic performance (marks: 22.8, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2516,51.0,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2516,51.0,"Weak academic performance (marks: 45.7, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2928,50.9,Fee due for 43+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2928,50.9,"Weak academic performance (marks: 38.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2674,50.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2070,50.9,"Weak academic performance (marks: 37.2, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2070,50.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1288,50.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1703,50.9,Low attendance (56.9%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1703,50.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1973,50.8,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2505,50.8,"Weak academic performance (marks: 35.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2505,50.8,Low assignment submission (47%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2505,50.8,First-generation learner commuting long distance (44 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2937,50.8,"Weak academic performance (marks: 36.0, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2759,50.8,Fee due for 52+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1938,50.8,"Weak academic performance (marks: 30.5, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1938,50.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2966,50.7,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1326,50.7,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1326,50.7,"Weak academic performance (marks: 40.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1326,50.7,First-generation learner commuting long distance (100 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1376,50.7,Low assignment submission (44%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1376,50.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2601,50.7,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1743,50.6,"Weak academic performance (marks: 70.0, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2358,50.6,Low attendance (55.8%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2358,50.6,Fee due for 54+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2342,50.6,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2385,50.6,Fee due for 57+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2413,50.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1442,50.5,Low attendance (47.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1442,50.5,"Weak academic performance (marks: 36.7, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1607,50.5,Low attendance (59.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1607,50.5,"Weak academic performance (marks: 20.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2100,50.4,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2100,50.4,"Weak academic performance (marks: 47.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2077,50.3,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2906,50.3,Low attendance (54.4%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2906,50.3,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2045,50.2,Fee due for 36+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2045,50.2,"Weak academic performance (marks: 23.1, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2388,50.2,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2388,50.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2925,50.2,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2925,50.2,First-generation learner commuting long distance (32 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1790,50.2,First-generation learner commuting long distance (41 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2712,50.1,Low attendance (45.4%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2712,50.1,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1166,50.0,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2878,49.9,Low attendance (52.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2878,49.9,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2878,49.9,"Weak academic performance (marks: 32.4, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1906,49.9,Low attendance (57.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1906,49.9,Fee due for 32+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1695,49.9,"Weak academic performance (marks: 85.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1695,49.9,First-generation learner commuting long distance (34 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1695,49.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1359,49.8,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1754,49.8,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1754,49.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1375,49.8,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1375,49.8,"Weak academic performance (marks: 86.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1375,49.8,First-generation learner commuting long distance (40 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1694,49.7,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2590,49.6,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2590,49.6,Low assignment submission (50%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1749,49.6,Low attendance (56.9%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1749,49.6,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1749,49.6,First-generation learner commuting long distance (39 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1749,49.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1763,49.5,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2824,49.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1946,49.4,Low attendance (55.1%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1946,49.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2439,49.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2059,49.1,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1813,49.1,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1813,49.1,"Weak academic performance (marks: 54.2, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2919,49.0,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2376,49.0,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2376,49.0,"Weak academic performance (marks: 55.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2376,49.0,Low assignment submission (6%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2778,49.0,"Weak academic performance (marks: 22.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1482,49.0,Low attendance (53.9%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1482,49.0,"Weak academic performance (marks: 95.9, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2741,48.9,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2741,48.9,"Weak academic performance (marks: 69.4, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2741,48.9,Low assignment submission (29%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1513,48.9,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1513,48.9,Low assignment submission (34%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1513,48.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2196,48.9,Fee due for 54+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2568,48.9,Low attendance (54.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2568,48.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1599,48.9,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2378,48.9,Fee due for 45+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2657,48.9,"Weak academic performance (marks: 22.4, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2657,48.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2752,48.9,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2752,48.9,"Weak academic performance (marks: 82.6, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2752,48.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2170,48.9,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2822,48.8,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1848,48.8,Fee due for 57+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1848,48.8,"Weak academic performance (marks: 49.1, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2264,48.8,Fee due for 51+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2264,48.8,"Weak academic performance (marks: 72.0, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2762,48.8,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2762,48.8,"Weak academic performance (marks: 45.4, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1117,48.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1300,48.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1646,48.7,Low attendance (37.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1646,48.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2945,48.7,Fee due for 43+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1653,48.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1856,48.6,Fee due for 45+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1026,48.6,"Weak academic performance (marks: 92.4, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1026,48.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2785,48.6,Low attendance (56.1%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2785,48.6,Fee due for 52+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2278,48.6,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1692,48.6,Fee due for 53+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1692,48.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2623,48.6,"Weak academic performance (marks: 60.8, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2623,48.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1360,48.5,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1360,48.5,"Weak academic performance (marks: 41.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1548,48.5,"Weak academic performance (marks: 78.4, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2365,48.5,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2365,48.5,"Weak academic performance (marks: 95.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2314,48.4,"Weak academic performance (marks: 53.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2314,48.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2808,48.4,Low attendance (54.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2808,48.4,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2808,48.4,"Weak academic performance (marks: 71.8, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2812,48.3,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2812,48.3,"Weak academic performance (marks: 44.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2812,48.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1606,48.3,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2162,48.2,Low attendance (57.2%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2162,48.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2645,48.2,"Weak academic performance (marks: 39.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2212,48.2,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1262,48.2,Low attendance (30.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1262,48.2,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1262,48.2,Low assignment submission (42%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2997,48.1,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1463,48.1,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1463,48.1,"Weak academic performance (marks: 37.7, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1810,48.1,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1810,48.1,"Weak academic performance (marks: 57.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1810,48.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1811,48.1,Low assignment submission (41%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1811,48.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2976,48.1,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2976,48.1,"Weak academic performance (marks: 69.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2512,48.1,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2014,48.1,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2014,48.1,"Weak academic performance (marks: 49.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2014,48.1,Low assignment submission (36%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2014,48.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2673,48.0,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2673,48.0,"Weak academic performance (marks: 74.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2673,48.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2540,47.9,Fee due for 52+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2540,47.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1180,47.9,Fee due for 53+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1029,47.9,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1029,47.9,"Weak academic performance (marks: 51.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1029,47.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2406,47.9,Low attendance (56.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2406,47.9,"Weak academic performance (marks: 72.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1263,47.9,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2982,47.9,"Weak academic performance (marks: 100.0, backlogs: 5)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2982,47.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2108,47.9,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1531,47.9,Low attendance (53.1%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2197,47.8,"Weak academic performance (marks: 26.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2287,47.8,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2287,47.8,"Weak academic performance (marks: 56.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2287,47.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2786,47.7,"Weak academic performance (marks: 65.7, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2271,47.6,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1514,47.5,"Weak academic performance (marks: 57.7, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2113,47.5,Fee due for 58+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2113,47.5,"Weak academic performance (marks: 38.2, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2193,47.4,Fee due for 43+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2193,47.4,"Weak academic performance (marks: 48.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2193,47.4,Low assignment submission (34%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2467,47.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1172,47.3,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1722,47.3,Low attendance (57.8%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1722,47.3,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1722,47.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1101,47.2,"Weak academic performance (marks: 43.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2169,47.2,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2169,47.2,"Weak academic performance (marks: 52.5, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1384,47.2,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1124,47.2,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2781,47.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2557,47.1,Fee due for 54+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2557,47.1,"Weak academic performance (marks: 62.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2951,47.1,Fee due for 56+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2951,47.1,"Weak academic performance (marks: 45.0, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2907,47.0,"Weak academic performance (marks: 34.7, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1778,47.0,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1753,47.0,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1753,47.0,"Weak academic performance (marks: 57.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2152,46.9,"Weak academic performance (marks: 7.7, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1230,46.9,"Weak academic performance (marks: 47.7, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1659,46.9,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2504,46.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1194,46.8,"Weak academic performance (marks: 63.4, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1194,46.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2081,46.7,Low assignment submission (36%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2081,46.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1668,46.7,Low attendance (38.2%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2210,46.6,Low attendance (59.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1947,46.5,"Weak academic performance (marks: 6.2, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2763,46.5,Low attendance (54.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2763,46.5,Fee due for 58+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2763,46.5,"Weak academic performance (marks: 74.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1203,46.5,"Weak academic performance (marks: 36.7, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2775,46.4,Low attendance (58.2%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2910,46.4,Fee due for 52+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2910,46.4,"Weak academic performance (marks: 34.5, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1187,46.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1250,46.2,Low attendance (59.1%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1250,46.2,"Weak academic performance (marks: 57.7, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2644,46.2,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1155,46.2,"Weak academic performance (marks: 48.9, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1155,46.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2079,46.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2043,46.2,Low assignment submission (44%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2043,46.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1435,46.2,"Weak academic performance (marks: 53.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1289,46.2,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2753,46.1,Low attendance (50.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2753,46.1,"Weak academic performance (marks: 51.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1922,46.1,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1922,46.1,Low assignment submission (34%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2880,46.1,Fee due for 58+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2880,46.1,"Weak academic performance (marks: 65.4, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1424,46.1,Fee due for 43+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1424,46.1,"Weak academic performance (marks: 32.4, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1642,46.0,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1718,46.0,"Weak academic performance (marks: 49.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1718,46.0,Low assignment submission (47%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1718,46.0,First-generation learner commuting long distance (31 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1718,46.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1852,46.0,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1023,46.0,Low attendance (56.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1023,46.0,"Weak academic performance (marks: 36.4, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1782,46.0,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1782,46.0,"Weak academic performance (marks: 38.3, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2868,46.0,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1833,45.9,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2474,45.9,"Weak academic performance (marks: 47.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1062,45.9,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1909,45.9,"Weak academic performance (marks: 82.6, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1134,45.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1904,45.8,"Weak academic performance (marks: 32.7, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1053,45.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2845,45.7,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2631,45.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1138,45.7,"Weak academic performance (marks: 37.7, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1081,45.6,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1037,45.6,Low attendance (48.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1037,45.6,"Weak academic performance (marks: 50.8, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1037,45.6,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1037,45.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2930,45.5,Low attendance (59.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1558,45.5,"Weak academic performance (marks: 65.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2132,45.5,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2132,45.5,"Weak academic performance (marks: 28.8, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2132,45.5,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2489,45.5,"Weak academic performance (marks: 31.2, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2489,45.5,Low assignment submission (26%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1100,45.4,Low attendance (56.8%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1100,45.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2231,45.4,Low attendance (57.5%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2231,45.4,"Weak academic performance (marks: 23.5, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1452,45.4,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2677,45.4,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2834,45.4,"Weak academic performance (marks: 42.5, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1613,45.4,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1613,45.4,"Weak academic performance (marks: 59.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2874,45.4,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2874,45.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1156,45.4,Fee due for 53+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1156,45.4,"Weak academic performance (marks: 53.2, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2218,45.3,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2626,45.3,"Weak academic performance (marks: 45.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2626,45.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2796,45.3,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2796,45.3,"Weak academic performance (marks: 57.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1437,45.3,Low attendance (57.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1437,45.3,Fee due for 57+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1398,45.3,Fee due for 45+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1398,45.3,Low assignment submission (25%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1355,45.3,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1566,45.2,Low attendance (47.4%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1566,45.2,"Weak academic performance (marks: 42.1, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1001,45.2,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1344,45.1,"Weak academic performance (marks: 21.2, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1344,45.1,Low assignment submission (15%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1555,45.1,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1975,45.1,Low attendance (49.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1975,45.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1799,45.1,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1799,45.1,"Weak academic performance (marks: 65.4, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1537,45.1,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1537,45.1,First-generation learner commuting long distance (37 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2794,45.1,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2794,45.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1719,45.0,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2228,45.0,First-generation learner commuting long distance (47 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1618,45.0,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1142,45.0,Low attendance (53.9%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2166,45.0,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2114,44.9,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1839,44.9,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1839,44.9,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2487,44.9,Low attendance (51.6%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2543,44.8,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1730,44.8,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2191,44.8,Low attendance (58.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2191,44.8,"Weak academic performance (marks: 72.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2050,44.7,"Weak academic performance (marks: 35.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1846,44.7,"Weak academic performance (marks: 49.4, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2442,44.7,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2442,44.7,First-generation learner commuting long distance (38 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1201,44.7,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1201,44.7,"Weak academic performance (marks: 56.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2744,44.7,"Weak academic performance (marks: 42.1, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1546,44.7,"Weak academic performance (marks: 35.2, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1432,44.7,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1432,44.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1760,44.7,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1760,44.7,"Weak academic performance (marks: 71.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1354,44.6,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1354,44.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1329,44.6,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2303,44.5,Fee due for 34+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2303,44.5,"Weak academic performance (marks: 41.5, backlogs: 5)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2242,44.5,"Weak academic performance (marks: 30.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2565,44.5,Fee due for 50+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2565,44.5,"Weak academic performance (marks: 60.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1925,44.5,Low attendance (55.2%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1925,44.5,"Weak academic performance (marks: 64.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1405,44.4,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1174,44.4,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2656,44.4,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1340,44.4,Fee due for 48+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1340,44.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1333,44.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2013,44.4,"Weak academic performance (marks: 34.9, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2818,44.4,"Weak academic performance (marks: 52.8, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2423,44.3,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2926,44.3,Low attendance (40.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2926,44.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1545,44.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1491,44.3,Fee due for 34+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2003,44.2,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1160,44.1,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1458,44.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1439,44.1,"Weak academic performance (marks: 31.1, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1439,44.1,Low assignment submission (25%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2802,44.1,"Weak academic performance (marks: 38.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1013,44.1,Low attendance (49.3%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2390,44.1,"Weak academic performance (marks: 31.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2390,44.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2526,44.1,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2526,44.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1295,44.0,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1557,44.0,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1803,44.0,"Weak academic performance (marks: 41.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1803,44.0,Low assignment submission (36%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1163,44.0,First-generation learner commuting long distance (31 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2947,44.0,"Weak academic performance (marks: 67.7, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2804,44.0,Low attendance (51.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2804,44.0,"Weak academic performance (marks: 43.9, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2804,44.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2046,44.0,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2046,44.0,"Weak academic performance (marks: 80.9, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2147,44.0,Low attendance (56.4%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2147,44.0,"Weak academic performance (marks: 47.2, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1444,43.9,Low attendance (58.4%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2002,43.9,"Weak academic performance (marks: 52.6, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1221,43.9,Low attendance (50.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1390,43.9,"Weak academic performance (marks: 26.8, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2468,43.8,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2468,43.8,"Weak academic performance (marks: 51.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2468,43.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1507,43.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2405,43.8,"Weak academic performance (marks: 14.4, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2076,43.8,Low attendance (54.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1742,43.8,"Weak academic performance (marks: 60.8, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1742,43.8,First-generation learner commuting long distance (35 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1742,43.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2194,43.7,Low attendance (54.1%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2194,43.7,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2194,43.7,"Weak academic performance (marks: 32.4, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1936,43.7,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1371,43.7,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1798,43.7,"Weak academic performance (marks: 53.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1798,43.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1748,43.7,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2596,43.7,"Weak academic performance (marks: 42.5, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2596,43.7,Low assignment submission (24%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1867,43.7,Fee due for 53+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1240,43.7,Fee due for 45+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2659,43.6,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2659,43.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1497,43.6,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1497,43.6,"Weak academic performance (marks: 55.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1992,43.6,Low assignment submission (36%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1992,43.6,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1084,43.6,Fee due for 51+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2483,43.6,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2640,43.5,"Weak academic performance (marks: 51.1, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2776,43.5,"Weak academic performance (marks: 27.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2445,43.5,"Weak academic performance (marks: 39.5, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2437,43.4,"Weak academic performance (marks: 37.0, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2478,43.4,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1011,43.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1626,43.4,"Weak academic performance (marks: 85.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1673,43.3,"Weak academic performance (marks: 50.3, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1673,43.3,First-generation learner commuting long distance (52 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1673,43.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2599,43.3,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1919,43.3,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1919,43.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2679,43.3,First-generation learner commuting long distance (43 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2542,43.3,Fee due for 58+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2542,43.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1185,43.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2206,43.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2973,43.2,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1161,43.2,Fee due for 58+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1161,43.2,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1900,43.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1787,43.1,"Weak academic performance (marks: 36.7, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1787,43.1,Low assignment submission (35%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2214,43.1,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2515,43.1,"Weak academic performance (marks: 68.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2515,43.1,First-generation learner commuting long distance (46 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2515,43.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1544,43.1,Low attendance (40.9%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1544,43.1,"Weak academic performance (marks: 100.0, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1544,43.1,First-generation learner commuting long distance (32 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1768,43.0,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2446,43.0,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1486,43.0,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2899,42.9,Fee due for 47+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2899,42.9,"Weak academic performance (marks: 66.8, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2899,42.9,Low assignment submission (48%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2321,42.9,Fee due for 43+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2321,42.9,Low assignment submission (23%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1804,42.8,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1838,42.8,Fee due for 56+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1838,42.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1971,42.8,Low assignment submission (48%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2843,42.8,"Weak academic performance (marks: 35.3, backlogs: 1)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2683,42.8,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2683,42.8,Low assignment submission (48%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2683,42.8,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1490,42.8,Fee due for 49+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1490,42.8,First-generation learner commuting long distance (32 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2956,42.7,Low attendance (46.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2956,42.7,"Weak academic performance (marks: 58.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1402,42.7,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1336,42.7,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2441,42.7,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2441,42.7,"Weak academic performance (marks: 48.9, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2028,42.7,Fee due for 39+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2179,42.7,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1195,42.6,Fee due for 38+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2787,42.6,Fee due for 42+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2787,42.6,"Weak academic performance (marks: 44.1, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2572,42.6,"Weak academic performance (marks: 65.8, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2572,42.6,Low assignment submission (49%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2285,42.6,Low attendance (58.0%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2427,42.6,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1678,42.6,Fee due for 54+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1678,42.6,"Weak academic performance (marks: 61.7, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1638,42.6,Low attendance (58.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1638,42.6,"Weak academic performance (marks: 41.4, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1805,42.5,"Weak academic performance (marks: 28.0, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1805,42.5,First-generation learner commuting long distance (33 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU1016,42.5,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2632,42.5,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1903,42.4,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1038,42.4,Low attendance (58.1%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1038,42.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2735,42.4,Low attendance (53.8%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU2735,42.4,Fee due for 54+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2735,42.4,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2838,42.4,"Weak academic performance (marks: 42.6, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2552,42.4,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU2949,42.3,"Weak academic performance (marks: 37.0, backlogs: 0)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU1815,42.3,Low attendance (55.7%),"Schedule a one-on-one meeting with class mentor to understand reasons for absence (health, financial, personal). Consider attendance recovery plan."
+STU1815,42.3,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1815,42.3,Low assignment submission (45%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU1815,42.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1658,42.3,Fee due for 61+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1420,42.3,Fee due for 62+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1420,42.3,"Weak academic performance (marks: 78.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2202,42.3,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
+STU1937,42.3,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1937,42.3,"Weak academic performance (marks: 55.9, backlogs: 2)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2466,42.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2440,42.3,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2243,42.2,Low assignment submission (48%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2243,42.2,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1515,42.2,Fee due for 55+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1220,42.2,Fee due for 40+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1220,42.2,First-generation learner commuting long distance (31 km),Consider hostel accommodation support or local commute assistance; connect with first-gen student support group.
+STU2269,42.1,Fee due for 46+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2055,42.1,"Weak academic performance (marks: 44.6, backlogs: 4)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2055,42.1,Low assignment submission (46%),Check in on workload/time-management challenges. Consider flexible deadlines or study-skills workshop referral.
+STU2055,42.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU2458,42.1,Fee due for 44+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU2458,42.1,"Weak academic performance (marks: 60.3, backlogs: 3)",Enroll in peer tutoring / remedial classes. Assign faculty mentor for subject-specific support.
+STU2458,42.1,"Low family income, no current scholarship",Proactively inform about applicable scholarships and fee-waiver schemes; refer to financial counselor.
+STU1372,42.1,Fee due for 41+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1685,42.0,Fee due for 45+ days,Refer to financial aid / scholarship cell. Check eligibility for fee installment plan or government scholarship schemes.
+STU1171,42.0,No major single risk factor,Risk likely from a combination of smaller factors. Recommend a general wellness/academic check-in.
